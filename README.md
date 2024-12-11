@@ -1,5 +1,3 @@
-# edc--http-data-plane
-
 # Eclipse Dataspace Components - Anonymize HTTP Data Plane
 
 This extension allows Eclipse Dataspace components (connectors) to anonymize HTTP data transfers.
